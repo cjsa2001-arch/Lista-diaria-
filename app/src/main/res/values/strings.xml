@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tareas Diarias</string>
+    <string name="today_tasks_counter">Tareas de hoy: %1$d completadas de %2$d totales</string>
+    <string name="task_input_placeholder">Escribe una tarea…</string>
+    <string name="add_task_button_desc">Agregar tarea</string>
+    <string name="delete_task_button_desc">Eliminar tarea</string>
+    <string name="toggle_task_checkbox_desc">Marcar tarea como completada</string>
+    <string name="filter_all">Todas</string>
+    <string name="filter_pending">Pendientes</string>
+    <string name="filter_completed">Completadas</string>
+    <string name="empty_tasks_title">Todo despejado hoy</string>
+    <string name="empty_tasks_subtitle">Agrega tus objetivos diarios con el botón de abajo</string>
+    <string name="clear_completed_action">Limpiar completadas</string>
+    <string name="clear_completed_dialog_title">¿Eliminar tareas completadas?</string>
+    <string name="clear_completed_dialog_message">Esta acción borrará todas las tareas que ya han sido marcadas como listas.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+</resources>

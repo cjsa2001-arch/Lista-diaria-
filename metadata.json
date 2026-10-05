@@ -1,0 +1,6 @@
+{
+  "name": "Tareas Diarias",
+  "description": "Aplicación minimalista de lista de tareas diarias con modo oscuro y seguimiento de progreso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
